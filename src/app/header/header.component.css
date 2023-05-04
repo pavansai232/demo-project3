@@ -1,0 +1,51 @@
+.topnav {
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .one{
+    width: 382px;
+    margin-top: 20px;
+    display: inline;
+    cursor: pointer;
+  
+  }
+  #b{
+    padding-top: 1%;
+    margin-top: 1%;
+    padding-left: 3%;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+    border-radius: 10px;
+    background-color:whitesmoke;
+    margin-left: 12%;
+    width: 400px;
+    border: whitesmoke;
+  }
+  #two{
+    margin-left: 20px;
+  }
+  #three{
+    margin-left: 20px;
+  }
+  #four{
+    margin-left: 20px;
+  }
+  #five{
+    margin-left: 20px;
+  }
+  #six{
+    margin-left: 20px;
+  }
+  #seven{
+    margin-left: 20px;
+  }
+
+
+
+
+
+ 
+  
